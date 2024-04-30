@@ -19,11 +19,37 @@
 </head>
 <body>
     <div id="conteudo-site-interno">
-        <p id="paragrafo1" class="paragrafo-impar">Este é o primeiro parágrafo sobre o assunto do seu site principal.</p>
-        <p id="paragrafo2" class="paragrafo-par">Este é o segundo parágrafo, continuando a discussão do assunto principal.</p>
-        <p id="paragrafo3" class="paragrafo-impar">O terceiro parágrafo aprofunda ainda mais no tema escolhido.</p>
-        <p id="paragrafo4" class="paragrafo-par">Finalmente, o quarto parágrafo conclui os pontos principais do assunto.</p>
-        <p id="paragrafo4" class="paragrafo-par">Finalmente, o quarto parágrafo conclui os pontos principais do assunto.</p>
+        <p id="O Castelo Animado" class="paragrafo-impar">O Castelo Animado é um filme de animação japonês dirigido por Hayao Miyazaki e produzido pelo Studio Ghibli em 2004. A história é baseada no livro de mesmo nome da escritora inglesa Diana Wynne Jones. Vamos lá:
+Enredo:
+A protagonista, Sophie, é uma jovem de 18 anos que trabalha na chapelaria de seu pai.
+Em uma de suas raras idas à cidade, ela conhece Hauru, um mágico bastante sedutor, mas de caráter duvidoso.
+Por engano, uma feiticeira lança sobre Sophie uma maldição que a transforma em uma mulher idosa de 90 anos.
+Desesperada, Sophie foge e acaba encontrando o Castelo Animado de Hauru.
+Lá, ela esconde sua identidade e consegue ser contratada para realizar serviços domésticos no local, envolvendo-se com os demais moradores do castelo.
+Personagens Principais:
+Sophie: A protagonista, que passa por uma incrível transformação.
+Hauru: O mágico sedutor e dono do Castelo Animado.
+Calcifer: Um demônio de fogo que vive no castelo.
+Markl: O aprendiz de Hauru.
+Temas:
+Guerra e Paz: O filme é uma resposta indireta de Miyazaki à guerra do Iraque.
+Humanismo e Ambientalismo: Miyazaki aborda esses temas de forma graciosa e elegante.
+Visual e Magia:
+O Castelo Animado é uma maravilha visual, com engrenagens, rodas e escadas que se movem.
+A magia permeia todo o filme, desde a transformação de Sophie até os feitiços lançados.
+Conclusão:
+O filme é uma jornada emocionante, com personagens cativantes e uma mensagem poderosa.
+Se você ainda não assistiu, eu recomendo!.</p>
+        <p id="Monster High" class="paragrafo-par">A história se passa durante o torneio anual SKRM (Skultimate Roller Maze), uma competição de patinação de obstáculos perigosa entre a Monster High e outras escolas de monstros.
+A equipe da Granite City High, rivais mais antigos da Monster High, venceu o torneio e roubou o brasão da escola, resultando na queda literal da escola e na decisão dos meninos de não participarem mais. As garotas da Monster High decidem então jogar no lugar dos meninos e começam a treinar para a competição.
+No entanto, os meninos protestam, alegando que o SKRM é um esporte apenas para meninos.
+Determinadas a vencer, as garotas enfrentam os obstáculos e trabalham duro para chegar à final e derrotar a Granite City High</p>
+        <p id="Hazbin Hotel" class="paragrafo-impar">Hazbin Hotel é uma série animada criada por Vivienne Medrano.
+A história se passa no inferno e segue a filha de Lúcifer, Charlie Morningstar, enquanto ela tenta encontrar uma alternativa não violenta para reduzir a superpopulação do inferno.
+Para isso, ela abre um hotel de reabilitação que oferece a demônios desajustados uma chance de redenção. A série combina elementos de comédia, fantasia e drama, e apresenta música original.</p>
+        <p id="Castelo Rá Tim Bum" class="paragrafo-par">Castelo Rá-Tim-Bum é uma série de televisão brasileira infanto-juvenil e educativa que foi produzida e exibida pela TV Cultura. Ela foi ao ar originalmente entre 9 de maio de 1994 e 24 de dezembro de 1997, totalizando 90 episódios e mais um especial.
+A história gira em torno de Nino, um menino de 300 anos, que vive no Castelo com seus tios: Victor, um grande inventor, e Morgana, uma feiticeira de 5999 anos. O Castelo é um lugar mágico e cheio de mistérios, onde Nino faz novos amigos e vive aventuras incríveis.</p>
+        <p id="Helluva Boss" class="paragrafo-par">Finalmente, o quarto parágrafo conclui os pontos principais do assunto.</p>
     </div>
 </body>
 </html>
